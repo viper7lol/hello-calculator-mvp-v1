@@ -163,6 +163,7 @@ h1 {
   text-align: right;
   white-space: nowrap;
   text-overflow: ellipsis;
+  color: yellow;
 }
 
 .expression {
