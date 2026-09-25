@@ -168,7 +168,7 @@ h1 {
 .expression {
   min-height: 40px;
   padding: 12px 14px 5px;
-  color: var(--muted);
+  color: red;
   font-size: .92rem;
   font-weight: 650;
 }
