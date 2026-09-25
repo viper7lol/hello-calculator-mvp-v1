@@ -163,13 +163,13 @@ h1 {
   text-align: right;
   white-space: nowrap;
   text-overflow: ellipsis;
-  color: yellow;
+  color: #ffff00;
 }
 
 .expression {
   min-height: 40px;
   padding: 12px 14px 5px;
-  color: red;
+  color: #ffff00;
   font-size: .92rem;
   font-weight: 650;
 }
